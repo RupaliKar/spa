@@ -1,0 +1,1019 @@
+/* Medium Layout: 1280px. */
+@media only screen and (max-width: 767px) { 
+/*==================== HOME PAGE ==========================*/
+.home-search-area {
+    z-index: 1;
+}
+.pricing-list {
+	margin-right: 0px;
+}
+.pricing-list-area {
+	margin-top: 58px;
+}
+.pricing-title h4 {
+	margin-bottom: 0px;
+}
+.pricing-title span {
+	font-size: 13px;
+}
+.contact-area._mar_t100._mar_b100 {
+	margin-top: 0px;
+}
+.price span {
+	font-size: 19px;
+}
+.main-nav {
+	display: none;
+}
+.mobile-menu{
+	display: block;
+}
+._text_right.main-navbar {
+	left: 0px;
+	width: 100%;
+}
+.mobile-nav-dropdown li {
+	padding: 5px 17px;
+}
+.main-navbar li {
+	padding: 1px 6px;
+}
+.main-nav-list {
+	text-align: center;
+}
+.top-nav {
+	display: block;
+}
+.top-nav-left {
+	text-align: center;
+}
+.top-nav-left ul li {
+	margin-right: 9px;
+}
+.top-nav-left ul li p {
+	font-size: 12px;
+}
+.top-nav-right {
+	width: 100%;
+	text-align: center;
+}
+.top-nav-right ul li p span {
+	margin-left:0px;
+	font-size: 13px;
+	padding: 0px 5px;
+}
+.top-nav-right ul li p {
+	font-size: 12px;
+}
+.single-slider {
+	height: 385px;
+}
+.slider-content h2 {
+    font-size: 19px;
+    line-height: 29px;
+    margin-bottom: 0px;
+}
+.slider-content p {
+    font-size: 16px;
+}
+.slider-content {
+	top: 36%;
+    margin: 25px 0px;
+    width: 68%;
+    line-height: 25px;
+}
+.active-slider .owl-nav div {
+	width: 19px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 17px;
+}
+.search-cont-bg::before {
+	display:none;
+}
+.search-cont-bg {
+	padding: 15px 0px;
+	margin-top: 0px;
+}
+ul.main-nav-list li {
+	margin-right: 4px;
+	margin-bottom: 9px;
+}
+ul.main-nav-list li input {
+	width: 152px;
+	padding: 6px;
+	font-size: 11px;
+	display: inline-block;
+	margin-right: 5px;
+	height: 25px;
+}
+ul.main-nav-list li select {
+	width: 152px;
+	padding: 4px;
+	height: auto;
+	font-size: 11px;
+}
+button.search {
+	padding: 2px 43px;
+}
+ul.main-nav-list li:nth-child(3) {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+ul.main-nav-list li:nth-child(4) {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.features-border span {
+	left: 42%;
+	padding: 4px 12px;
+}
+.contact-form-right {
+	overflow: hidden;
+}
+.section-title {
+	width: 100%;
+	margin: 0px auto 14px;
+}
+.section-title::before {
+    top: 62px;
+    left: 33%;
+}
+.section-title::after {
+    left: 48%;
+    top: 55px;
+}
+.section-title h2 {
+	font-size: 26px;
+	word-spacing: 3px;
+}
+.subscribe-area {
+	margin: 45px 0px;
+}
+.sub-cont {
+	padding: 38px 0px;
+	position:relative;
+	top:0px;
+	left: 0px;
+	transform: translate(-0%,-0%);
+}
+.sub-cont p {
+	font-size: 18px;
+	line-height: 27px;
+}
+.sub-input input {
+	width: 100%;
+	margin-bottom: 14px;
+}
+.single-features:last-child {
+	margin-bottom: 0px;
+}
+.single-features{
+	margin-top: 45px;
+}
+.features-area._text_center {
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+.features-border span {
+	top: -25%;
+	font-size: 22px;
+	left: 0px;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+}
+.single-features p {
+	font-size: 13px;
+}
+.single-features h2 {
+	font-size: 26px;
+}
+.spa-centers {
+	margin-top: 57px;
+}
+.single-spa-details h4 {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+.single-spa-cont-top ul li {
+	font-size: 13px;
+}
+.single-spa-details p, .single-blog-cont p {
+	font-size: 14px;
+}
+.view-price {
+	font-size: 15px;
+}
+.blogs {
+	margin-top: 57px;
+}
+.home-spa-area{
+	margin: 10px 0px;
+}
+.contact-area._mar_b150 {
+	margin-bottom: 36px;
+}
+.footer-logo a {
+	font-size: 30px;
+}
+.single-footer h2 {
+	font-size: 25px;
+}
+.footer-menu ul li a {
+	font-size: 14px;
+}
+.single-blog-footer-img {
+	margin-bottom: 9px;
+}
+.footer-pera p {
+	line-height: 22px;
+	font-size: 13px;
+}
+.single-blog-footer .col-md-4 {
+	width: auto;
+}
+.single-blog-footer .col-md-8 {
+	width: auto;
+}
+.auth-click-1 {
+	padding: 0px 7px;
+	font-size: 13px;
+}
+.auth-click-3 img {
+	width: 21px;
+	height: 21px;
+}
+.mhide {
+	margin-right: 8px;
+}
+.top-nav-left ul li p {
+	padding: 0px
+}
+.header-nav .mobile-toggle span {
+	font-size: 18px;
+	margin: 13px 6px;
+}
+.header-logo a {
+	font-size: 28px;
+}
+.footer-logo img {
+	width: 170px;
+	margin-bottom: 10px;
+}
+.single-footer {
+	margin-bottom: 21px;
+}
+.contact-form-area {
+	margin-top: 60px;
+}
+.contact-form input {
+	font-size: 13px;
+}
+a.search {
+    padding: 2px 43px;
+    margin-top: 9px;
+    font-size: 13px;
+}
+.blog-subheadline-items {
+    margin: 8px 0px -1px 0px;
+    padding: 1px 16px;
+}
+/*========================== SEARCH PAGE =======================*/
+.search-sidebar {
+	margin-bottom: 32px;
+}
+.single-spa {
+	margin-bottom: 24px;
+}
+.pagination-items li {
+	margin-bottom: 12px;
+}
+/*========================== Booking Page ========================*/
+.tabs {
+	margin-top: 57px;
+}
+.tabs-sel .tabs-select {
+	margin-right: 20px;
+	font-size:13px
+}
+.tabs-sel .tabs-select::after {
+	width: 84px;
+}
+.single-form {
+	margin-right: 0px;
+	width: 100%;
+	margin-bottom: 0px;
+}
+.single-form label {
+	margin-bottom: -4px;
+	font-size: 12px;
+}
+.single-form input {
+	width: 100%;
+	padding: 4px 4px;
+	margin-bottom: 0px;
+}
+.single-form select {
+	width: 100%;
+	font-size: 13px;
+}
+.person-review-item {
+	width: 100%;
+}
+.modal-full-content-2 {
+	width: 79%;
+}
+.booking-form {
+	width: 100%;
+}
+.single-search-right-cont-bottom p {
+	font-size: 13px;
+}
+.steps-list ul li {
+	font-size: 13px;
+}
+.person-review-item-text p {
+	font-size: 13px;
+}
+span.star::before, span.half-star::after {
+	font-size: 14px;
+}
+.review-ti li {
+	font-size: 13px;
+}
+.booking-form p {
+	font-size: 17px;
+}
+.single-form.single-form-radio span {
+	font-size: 15px;
+}
+.single-blog-comment-del p {
+	font-size: 13px;
+}
+/*====================== Blog Page =======================*/
+.single-blog-sidebar-details {
+	padding: 13px 0px;
+	border-bottom: 0px;
+	width: 21%;
+	margin-right: 11px;
+	display: inline-block;
+}
+.single-blog-sidebar-details:last-child {
+	margin-right: 0px;
+}
+.single-blog-sidebar{
+	margin-bottom: 33px;
+}
+.blog-content-area {
+	margin-bottom: 0px;
+}
+.footer-area {
+	margin-top: 27px;
+}
+.features-border::after {
+	right: -26px;
+}
+/*====================== Blog Details Page =======================*/
+.blog-social-list li a {
+	margin-bottom: 7px;
+}
+.single-blog-comment-img {
+	width: 90px;
+	height: 89px;
+}
+.single-blog-comment-child {
+	margin-left: 52px;
+}
+/*===================== Reservation Page ========================*/
+.single-form {
+	margin-bottom: 10px;
+}
+.tabs-sel .tabs-select::after {
+	width: 137%;
+}
+/*====================== Login Page =================*/
+.login-top {
+	 padding: 0px; 
+}
+.login-content {
+	width: 91%;
+	bottom: 37px;
+	left: 19px;
+	padding: 44px 12px;
+}
+.login-form-area {
+	padding: 0px;
+}
+/*===================== Spa Details Page  ====================*/
+.single-search-right-cont-del {
+	 margin-left: 0px;
+}
+.single-search-right-cont-del {
+	padding: 11px 0px;
+}
+.rating.search-grid {
+	top: -13px;
+	margin-bottom: -2px;
+}
+.rating.after-grid {
+	width: 94%;
+	top: 47px;
+	left: 0px;
+}
+.rating.rating-list {
+	top: 45px;
+	left: 1px;
+	width: 94%;
+}
+.single-spa-cont-top {
+	margin: -1px 0px 2px;
+}
+.single-search-right-cont-del h2 {
+	margin-bottom: 17px;
+	font-size: 21px;
+}
+.rating h6 {
+	font-size: 16px;
+}
+.search-view li {
+	padding: 3px 8px;
+}
+.search-view li a {
+	font-size: 13px;
+	padding: 2px 0px;
+}
+.single-search-right-cont-del h2 {
+	margin-bottom: 68px;
+	font-size: 21px;
+}
+.rating.rating-grid {
+	top: -3px;
+	margin-bottom: 10px;
+	left: 0px;
+	width: 94%;
+}
+/*================================= Hair Detalis =====================*/
+.rating.hair-grid {
+	margin-top: 0px;
+	left: 0px;
+	margin-bottom: 1px;
+	margin-top: 9px;
+}
+/*========================= Contact Paga =======================*/
+.single-contact span {
+	left: 91px;
+}
+.contact-form-right {
+	text-align: center;
+	display: none;
+}
+.contact-form {
+	text-align: center;
+}
+/*======================= Blog Page ===========================*/
+/* .single-search-right-cont-del h2 {
+	margin-bottom: 65px;
+	font-size: 21px;
+}
+.rating {
+	top: 45px;
+}
+ */
+.date-range {
+    padding: 20px 25px;
+    bottom: -210px;
+}
+
+/*================================ DASHBOARD ========================*/
+.dashboard-sidebar.search-sidebar {
+	margin-top: 57px;
+	margin-bottom: 0px;
+}
+.dashboard-right-content {
+	padding: 0px ;
+}
+.single-account-info {
+	margin-top: 42px;
+}
+.dash-accout-form {
+	width: 100%;
+}
+.dash-main-modal-1, .dash-main-modal-2 {
+	width: 75%;
+	padding: 14px 19px;
+}
+.chart-title {
+	margin-bottom:0px;
+}
+.dash-account-info span {
+    margin-top: 0px;
+    font-size: 13px;
+}
+.search-view {
+	line-height: 0px;
+}
+.search-right-notification {
+	padding: 12px 13px;
+}
+.search-view li {
+	display: inline-block;
+	margin-right: 0px;
+	padding: 7px 8px;
+	margin-bottom: 4px;
+}
+.slider-content.search-cont p a {
+	font-size: 16px;;
+}
+.slider-content.search-cont p {
+	font-size: 17px;
+	position: relative;
+	left: 0px;
+	top: 0px
+}
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+body{background-color: red} 
+/*==================== HOME PAGE ==========================*/
+._text_right.main-navbar {
+	left: 0px;
+	width: 100%;
+}
+.main-nav {
+	display: none;
+}
+.mobile-menu{
+	display: block;
+}
+.top-nav-left ul li p {
+	font-size: 14px;
+}
+.mobile-nav-dropdown li {
+	padding: 5px 17px;
+}
+.single-slider {
+	height: 470px;
+}
+/*.slider-content h2 {
+	font-size: 34px;
+}*/
+.pricing-list {
+	margin-right: 0px;
+}
+.slider-content h2 {
+	font-size: 27px;
+}
+a.search {
+	padding: 1px 43px;
+}
+.slider-content p {
+	font-size: 17px;
+}
+.slider-content {
+	margin: 27px 0px;
+}
+.active-slider .owl-nav div {
+	width: 27px;
+	height: 48px;
+	line-height: 45px;
+	font-size: 24px;
+}
+.search-cont-bg::before {
+	display:none;
+}
+/*.search-cont-bg {
+	padding: 64px 0px;
+	margin-top: -1px;
+	background-color: #1A1311;
+}*/
+ul.main-nav-list li {
+	margin-right: 4px;
+	margin-bottom: 9px;
+}
+ul.main-nav-list li input {
+	width: 159px;
+	padding: 6px;
+	font-size: 14px;
+	display: inline-block;
+	margin-right: 5px;
+	height: 28px;
+}
+ul.main-nav-list li select {
+	width: 182px;
+	padding: 5px;
+	height: auto;
+}
+button.search {
+	padding: 2px 43px;
+}
+ul.main-nav-list li:nth-child(3) {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+ul.main-nav-list li:nth-child(4) {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.contact-form-img::before {
+	display:none
+}
+.features-area {
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+.features-border span i {
+	font-size: 29px;
+}
+.single-features p {
+	font-size: 12px;
+}
+.features-border span {
+	left: 0px;
+	width: 50px;
+	height: 50px;
+	line-height: 31px;
+	top: -50px;
+}
+.single-spa-details h4 {
+	font-size: 21px;
+}
+.sub-cont p {
+	font-size: 21px;
+}
+.single-spa-cont-top ul li {
+	font-size: 12px;
+}
+.single-spa-details p, .single-blog-cont p {
+	font-size: 13px;
+	line-height: 21px;
+}
+.view-price {
+	font-size: 14px;
+}
+.home-spa-area {
+	margin-bottom: 60px;
+}
+.home-spa-area._mar_t100 {
+	margin-top: 0px;
+}
+.subscribe-area {
+	margin: 47px 0px;
+}
+.single-blog-cont {
+	padding: 0px 12px 19px;
+}
+.blog-subheadline-items li {
+	font-size: 12px;
+	margin-right: 6px;
+}
+.blog-tag-list li a {
+	font-size: 14px;
+}
+.blog-tag-list li {
+	line-height: 28px;
+}
+.blog-subheadline-items li a {
+	font-size: 13px;
+}
+.contact-area {
+	margin-bottom: 78px;
+}
+/* .single-blog-footer-img {
+	margin-right: 8px;
+} */
+.single-footer {
+	padding: 0px;
+}
+.single-footer h2 {
+	font-size: 17px;
+}
+.footer-menu ul li a {
+	font-size: 14px;
+}
+.footer-logo a {
+	font-size: 38px;
+}
+.footer-pera p {
+	line-height: 21px;
+	font-size: 13px;
+	padding-top: 0px;
+}
+.features-border::after {
+	width: 42%;
+}
+.rating.after-grid {
+	top: 39px;
+	left: 13px;
+	width: 94%;
+}
+.single-blog-img::before {
+	height: 56px;
+}
+.blog-subheadline-items {
+	padding: 0px 5px;
+}
+.single-spa-details h4, .single-blog-cont h4 {
+	font-size: 21px;
+	margin-top: 8px;
+}
+a.view-price {
+	padding: 7px 8px;
+	font-size: 14px;
+}
+/*========================== SEARCH PAGE =======================*/
+.search-range::after {
+	right: 6px;
+}
+.single-spa {
+	margin-bottom: 24px;
+}
+.footer-area {
+	margin-top: 98px;
+}
+/*========================== Booking Page ========================*/
+.booking-form {
+	width:100%;
+}
+.single-form {
+	margin-bottom: 0px;
+	width:100%
+}
+.person-review-item {
+	width: 100%;
+}
+.modal-full-content-2 {
+	width: 60%;
+}
+.booking-form p {
+	font-size: 29px;
+}
+.single-form.single-form-radio span {
+	font-size: 15px;
+}
+/*========================== Reservation Page ========================*/
+.tabs-sel .tabs-select {
+	margin-right: 130px;
+}
+.tabs-sel .tabs-select::after {
+	left: 50px;
+}
+.single-form {
+	margin-bottom: 18px;
+	width: 100%;
+}
+/*========================== Login Page ========================*/
+.login-content {
+	width: 305px;
+	left: 28px;
+}
+/*========================= Spa Detalis Page ====================*/
+.rating.rating-grid {
+	top: 9px;
+	left: 0px;
+}
+.single-spa-details .rating {
+	padding: 0px 7px;
+}
+.single-spa-details .rating span {
+	padding: 11px 22px;
+}
+.single-search-right-cont-del h2 {
+	margin-bottom: 68px;
+}
+.rating.rating-grid {
+	top: 4px;
+	left: 0px;
+	width: 94%;
+	left: -2px;
+}
+.rating h6 {
+	font-size: 15px;
+}
+/* .search-view {
+	margin-bottom: 16px;
+} */
+.search-view li {
+	padding: 4px 5px;
+}
+.single-spa-cont-top ul li {
+	font-size: 13px;
+}
+.single-search-right-cont-bottom p {
+	font-size: 14px;
+}
+.single-blog-footer h3 a {
+	font-size: 12px;
+}.search-view {
+	line-height: 0px
+}
+.search-view li a {
+	font-size: 13px;
+}
+/*============================== Hair Details ===============================*/
+.book {
+	padding: 0px 25px;
+	font-size: 15px;
+	margin-top: 9px;
+}
+.rating-list {
+	top: 39px;
+	width: 94%;
+	left: 13px;
+}
+
+/*=========================== Booking Page =======================*/
+/*======================== Blog Page ===================*/
+.blog-subheadline-items {
+	margin: 12px 0px 5px 0px;
+}
+
+
+/*================================ DASHBOARD =================================*/
+.single-dashboard-info {
+	margin: 14px 0px;
+}
+}
+/* Mobile Layout: 320px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+body{background-color: #000} 
+/*==================== HOME PAGE ==========================*/
+.search-cont-bg::before {
+	width: 100%;
+}
+.single-slider {
+	height: 500px;
+}
+.slider-content h2 {
+	font-size: 49px;
+}
+.slider-content p {
+	font-size: 23px;
+}
+.features-area {
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+.home-spa-area {
+	margin-bottom: 60px;
+}
+.home-spa-area._mar_t100 {
+	margin-top: 0px;
+}
+.subscribe-area {
+	margin: 47px 0px;
+}
+.contact-area {
+	margin-bottom: 60px;
+}
+.single-blog-footer-img {
+	margin-right: 8px;
+}
+.features-border::after {
+	right: -26px;
+}
+.single-blog-footer h3 a {
+	margin-left: 15px;
+}
+.single-blog-footer span {
+	margin-left: 15px;
+}
+.blog-subheadline-items {
+    margin: 8px 0px 0px 0px;
+    padding: 0px 16px;
+}
+ul.main-nav-list li {
+    margin-bottom: 11px;
+}
+/*========================== SEARCH PAGE =======================*/
+.rating-list {
+	top: 39px;
+	width: 94%;
+	left: 13px;
+}
+.single-search-right-cont-del h2 {
+	margin-bottom: 63px;
+}
+/*========================== Booking Page ========================*/
+.booking-form p {
+	font-size: 27px;
+}
+/*======================== Login Page =============================*/
+.login-content {
+	left: 53px;
+}
+
+
+
+
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+body{background-color:yellow}
+/*==================== HOME PAGE ==========================*/
+.section-title::before {
+	left: 39%;
+}
+.main-nav-list {
+	text-align: center;
+}
+ul.main-nav-list li input {
+	width: 161px;
+}
+.single-spa {
+	margin-bottom: 40px;
+}
+.features-border::after {
+	right: -26px;
+}
+.features-border span {
+	top: -35%;
+}
+.single-features{
+	margin-bottom: 31px;
+}
+.section-title h2 {
+	font-size: 30px;
+}
+.blog-subheadline-items {
+    margin: 8px 0px 4px 0px;
+    padding: 6px 16px;
+}
+/*========================== SEARCH PAGE =======================*/
+.search-sidebar {
+	margin-bottom: 32px;
+}
+/*========================== Booking Page ========================*/
+/*========================== Blog Page ========================*/
+.single-blog-sidebar-details {
+	padding: 13px 0px;
+	border-bottom: 0px;
+	width: 23%;
+	margin-right: 11px;
+	display: inline-block;
+}
+.single-blog-sidebar-details:last-child {
+	margin-right: 0px;
+}
+.single-blog-sidebar{
+	margin-bottom: 33px;
+}
+/*========================== Blog Details Page ========================*/
+.single-blog-comment-img {
+	width: 90px;
+	height: 89px;
+}
+/*========================== Login Page ========================*/
+.login-content {
+	width: 363px;
+	left: 91px;
+}
+.login-top {
+	padding: 18px;
+}
+.features-border::after {
+	right: -26px;
+}
+/*============================ Hair Details Page ===================*/
+.rating.hair-grid {
+	margin-top: 0px;
+	left: 0px;
+	margin-bottom: 1px;
+	top: -7px;
+}
+.rating-list {
+	top: 46px;
+	width: 94%;
+	left: -2px;
+}
+/*============================== Contact Page ======================*/
+.contact-form-right {
+	text-align: center;
+}
+/*============================== Blog Page =========================*/
+.single-search-right-cont-del h2 {
+	margin-bottom: 68px;
+	font-size: 21px;
+}
+.rating.rating-grid {
+	/* top: 45px; */
+	/* margin-bottom: 60px; */
+}
+ .single-spa-details h4 {
+	font-size: 26px;
+	margin-bottom: 22px;
+}
+.single-spa-details .rating {
+	margin-bottom: -12px;
+	padding: 0px 17px;
+	top: -15px;
+} 
+  
+  
+  
+}
+
+
+
+
